@@ -4,9 +4,23 @@ This final capstone project was split into two sections: NLP 1 & NLP 2. NLP 1 fo
 
 ## Table of Contents
 <a href="#installation">Installation</a>
+
 <a href="#usage">Usage</a>
+
+
 ## Installation
+To view this project locally:
+1. Clone this repository to your local machine using the 'git clone' command.
+```
+git clone https://github.com/timmatee/finalCapstone.git
+```
+2. Go to the project directory
+```
+cd finalCapstone
+```
+3. You can now view the files but remember! if you want to clone this repository under your own account, replace my username "timmatee" with your own.
+
 
 ## Usage
-[Installation](https://github.com/timmatee/finalCapstone/edit/main/finalCapstone#installation)
-[Usage](https://github.com/timmatee/finalCapstone/edit/main/finalCapstone#usage) 
+As the files are in PDF format, you'll need a PDF viewer:
+https://www.adobe.com/uk/acrobat/pdf-reader.html
