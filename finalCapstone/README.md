@@ -2,4 +2,10 @@
 
 This final capstone project was split into two sections: NLP 1 & NLP 2. NLP 1 focused on best suited NLP applications for different scenarios i.e. email folder allocation, essay grading assistance & assistive technology for doctors to make diagnosis. NLP 2 focused on innovative technology using NLP by tech companies. How it is being utilised and the results.
 
+## Table of Contents
+[Installation](https://github.com/timmatee/finalCapstone/edit/main/finalCapstone#installation)
+[Usage](https://github.com/timmatee/finalCapstone/edit/main/finalCapstoneUsage) 
 
+## Installation
+
+## Usage
